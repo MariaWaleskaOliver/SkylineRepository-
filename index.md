@@ -1,6 +1,6 @@
 ##  Maria De Oliveira Repository 
 
-I am a Computer Programming student going into my second year at Conestoga College. I acquired knowledge that you have one open spot for Marketing Assistant, Student  and I would like to show some of my work I have done in class with hopes of being conseded as a candidete.    
+I am a Computer Programming student going into my second year at Conestoga College. I acquired knowledge that you have a position open for a Marketing Assistant, Student  and I would like to show some of my work I have done in class with hopes of being considered as a candidete.    
 
 ### BEAUTÉ
 
