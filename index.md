@@ -27,5 +27,4 @@ The image below was one of the prototypes I made with my group for a website whe
 
 
 ### Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+If you have futher questions please feel free to Contact me at mwalleska135246@.gmail.com.
