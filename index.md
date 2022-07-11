@@ -2,10 +2,21 @@
 
 I am a Computer Programming student going into my second year at Conestoga College. I acquired knowledge that you have one open spot for Marketing Assistant, Student  and I would like to show some of my work I have done in class with hopes of being conseded as a candidete.    
 
-
 ### BEAUTÉ
 
-I made a static website for jewelry called Beuté using HTML and CSS. That was one of most important and pleasurable assignments to me. Please check it out! [BEAUTÉ]( https://mariawaleskaoliver.github.io/Awesomeflorists/)
+I made a static website for jewelry called Beuté using HTML and CSS. That was one of most important and pleasurable assignments to me. Please check it out! [BEAUTÉ Web site ](https://mariawaleskaoliver.github.io/skyline/)
+
+
+### Awesome Florists 
+
+I made a static website for a flower shop as an exercise in College. Please check it out! [Awesome Florists Web site]( https://mariawaleskaoliver.github.io/Awesomeflorists/)
+
+### Tax Calculator
+
+I made a dynamic website that collects data from the user and make some calculations using JavaScript. Please check it out! [Tax Calculator]( https://mariawaleskaoliver.github.io/java3/)
+
+### Form Canada Tools 
+I made a form to colect the user date using JavaScript Please check it out! [Form Canada Tools]( https://mariawaleskaoliver.github.io/java2/)
 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
