@@ -4,7 +4,7 @@ I am a Computer Programming student going into my second year at Conestoga Colle
 
 ### BEAUTÉ
 
-I made a static website for jewelry called Beuté using HTML and CSS. That was one of most important and pleasurable assignments to me. Please check it out! [BEAUTÉ Web site ](https://mariawaleskaoliver.github.io/skyline/)
+I made a static website for jewelry called Beuté using HTML and CSS. That was one of the most important and pleasurable assignments to me. Please check it out! [BEAUTÉ Web site ](https://mariawaleskaoliver.github.io/skyline/)
 
 
 ### Awesome Florists 
