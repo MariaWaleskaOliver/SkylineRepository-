@@ -13,10 +13,18 @@ I made a static website for a flower shop as an exercise in College. where the u
 
 ### Tax Calculator and Form using Java Script 
 
-I made a dynamic website that collects data from the user and make some calculations [Tax Calculator]( https://mariawaleskaoliver.github.io/java3/) I also created a form to colect the user data and established some Regex and server-side validations. Please check it out! [Form Canada Tools]( https://mariawaleskaoliver.github.io/java2/)
+I made a dynamic website that collects data from the user and make some calculations [Tax Calculator]( https://mariawaleskaoliver.github.io/java3/) I also created a form to collect the user's data and intergrated some Regex and server-side validations. Please check it out! [Form Canada Tools]( https://mariawaleskaoliver.github.io/java2/)
+
+### UX Projects 
+In my first semester, I developed a Mystery game prototype using the JustInMind app.
+![net1](https://user-images.githubusercontent.com/102097554/178344449-5d542aea-ef1a-43f6-99cb-7f790a6deb50.png)
 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The image below was one of the prototypes I made with my group for a website where the user could search about colleges and get to know more details about it.       .
+![APRESENTATION PROT](https://user-images.githubusercontent.com/102097554/178342445-9b97b00b-3df5-49e9-b9cc-64af00443969.png)
+
+
+
 
 ```markdown
 Syntax highlighted code block
