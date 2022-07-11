@@ -17,10 +17,12 @@ I made a dynamic website that collects data from the user and makes some calcula
 
 ### UX Projects 
 In my first semester, I developed a Mystery game prototype using the JustInMind app. 
+
 ![net1](https://user-images.githubusercontent.com/102097554/178344449-5d542aea-ef1a-43f6-99cb-7f790a6deb50.png)
 
 
-The image below was one of the prototypes I made with my group for a website where the user could search about colleges and get to know more details about them.     .
+The image below was one of the prototypes I made with my group for a website where the user could search about colleges and get to know more details about them.   
+.
 ![APRESENTATION PROT](https://user-images.githubusercontent.com/102097554/178342445-9b97b00b-3df5-49e9-b9cc-64af00443969.png)
 
 
