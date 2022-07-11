@@ -26,6 +26,6 @@ The image below was one of the prototypes I made with my group for a website whe
 ![APRESENTATION PROT](https://user-images.githubusercontent.com/102097554/178342445-9b97b00b-3df5-49e9-b9cc-64af00443969.png)
 
 
-### Support or Contact
+### Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
