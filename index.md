@@ -9,7 +9,7 @@ I made a static website for jewelry called Beuté using HTML and CSS. That was o
 
 ### Awesome Florists 
 
-I made a static website for a flower shop as an exercise in College. Please check it out! [Awesome Florists Web site]( https://mariawaleskaoliver.github.io/Awesomeflorists/)
+I made a static website for a flower shop as an exercise in College. where the user can navigete through pages and tabs. Please check it out! [Awesome Florists Web site]( https://mariawaleskaoliver.github.io/Awesomeflorists/)
 
 ### Tax Calculator
 
