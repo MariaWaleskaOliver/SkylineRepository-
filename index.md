@@ -11,12 +11,9 @@ I made a static website for jewelry called Beuté using HTML and CSS. That was o
 
 I made a static website for a flower shop as an exercise in College. where the user can navigete through pages and tabs. Please check it out! [Awesome Florists Web site]( https://mariawaleskaoliver.github.io/Awesomeflorists/)
 
-### Tax Calculator
+### Tax Calculator and Form using Java Script 
 
-I made a dynamic website that collects data from the user and make some calculations using JavaScript. Please check it out! [Tax Calculator]( https://mariawaleskaoliver.github.io/java3/)
-
-### Form Canada Tools 
-I made a form to colect the user date using JavaScript Please check it out! [Form Canada Tools]( https://mariawaleskaoliver.github.io/java2/)
+I made a dynamic website that collects data from the user and make some calculations [Tax Calculator]( https://mariawaleskaoliver.github.io/java3/) I also created a form to colect the user data and established some Regex and server-side validations. Please check it out! [Form Canada Tools]( https://mariawaleskaoliver.github.io/java2/)
 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
