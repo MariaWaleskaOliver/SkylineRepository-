@@ -28,16 +28,11 @@ The image below was one of the prototypes I made with my group for a website whe
 ### Data Modeling 
 Using Microsoft Acess I created a data base and stabished relationships between queries 
 
-![image](https://user-images.githubusercontent.com/102097554/178462732-76876bc9-0cf1-4698-a7f2-22f0c3769adc.png)
+![image](https://user-images.githubusercontent.com/102097554/178467610-7574b1fd-a83e-4795-b78a-792c61bf2f14.png)
 
-I added some Validation Rules and Imput Mask
-
+I also added some Validation Rules and Imput Mask
 
 ![image](https://user-images.githubusercontent.com/102097554/178466213-8e797ab4-1d14-4b02-8563-83f943c36181.png) ![image](https://user-images.githubusercontent.com/102097554/178466670-9daa00fc-4359-4748-989e-d73769ac78a1.png)
-
-
-
-
 
 ### Contact
 If you require any further information, please feel free to contact me at mwalleska135246@.gmail.com.
