@@ -30,21 +30,12 @@ Using Microsoft Acess I created a data base and stabished relationships between 
 
 ![image](https://user-images.githubusercontent.com/102097554/178462732-76876bc9-0cf1-4698-a7f2-22f0c3769adc.png)
 
-I added some Validation Rules 
+I added some Validation Rules and Imput Mask
 
-![image](https://user-images.githubusercontent.com/102097554/178466083-8afdea76-b539-4f8c-9fb7-5fcc3cdeb2c1.png)
 
-![image](https://user-images.githubusercontent.com/102097554/178466213-8e797ab4-1d14-4b02-8563-83f943c36181.png)
+![image](https://user-images.githubusercontent.com/102097554/178466213-8e797ab4-1d14-4b02-8563-83f943c36181.png) ![image](https://user-images.githubusercontent.com/102097554/178466670-9daa00fc-4359-4748-989e-d73769ac78a1.png)
 
-![image](https://user-images.githubusercontent.com/102097554/178463454-207f47c7-3c8a-43a5-9b4b-5d4fe6587e36.png)
 
-I also added some Imput Masks
- 
-![image](https://user-images.githubusercontent.com/102097554/178466670-9daa00fc-4359-4748-989e-d73769ac78a1.png)
-
-![image](https://user-images.githubusercontent.com/102097554/178466698-fcb245c5-9b91-4840-a2cf-693777597850.png)
-
-![image](https://user-images.githubusercontent.com/102097554/178466738-3784912d-715a-4b95-9286-1aa548a6742b.png)
 
 
 
