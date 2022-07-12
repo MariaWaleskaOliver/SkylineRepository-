@@ -1,4 +1,4 @@
-##  Welcome to my Repository 
+##  Welcome to my Repository!
 
 I am a Computer Programming student in my second year at Conestoga College. I learned that you have a position open for a Marketing Assistant Student, and I would like to show some of my work in class with hopes of being considered as a candidate.    
 
@@ -27,4 +27,4 @@ The image below was one of the prototypes I made with my group for a website whe
 
 
 ### Contact
-If you have futher questions please feel free to Contact me at mwalleska135246@.gmail.com.
+If you require any further information, please feel free to contact me at mwalleska135246@.gmail.com.
