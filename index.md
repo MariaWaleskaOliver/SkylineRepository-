@@ -32,9 +32,9 @@ Using Microsoft Acess I created a data base and stabished relationships between 
 
 I added some Validation Rules 
 
-![image](https://user-images.githubusercontent.com/102097554/178463337-b53c427d-4e6e-4373-a89a-9a01ca9ad3b7.png)
+![image](https://user-images.githubusercontent.com/102097554/178466083-8afdea76-b539-4f8c-9fb7-5fcc3cdeb2c1.png)
 
-![image](https://user-images.githubusercontent.com/102097554/178463402-79b18e9a-c6ef-46c5-827d-3235c7e4ed9a.png)
+![image](https://user-images.githubusercontent.com/102097554/178466213-8e797ab4-1d14-4b02-8563-83f943c36181.png)
 
 ![image](https://user-images.githubusercontent.com/102097554/178463454-207f47c7-3c8a-43a5-9b4b-5d4fe6587e36.png)
 
