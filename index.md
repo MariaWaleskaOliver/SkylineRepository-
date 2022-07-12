@@ -26,7 +26,7 @@ The images below was one of the prototypes I made with my group for a website wh
 ![image](https://user-images.githubusercontent.com/102097554/178468946-a897dc8f-e09c-4ef8-88f1-b1226433f071.png)
 
 ### Data Modeling 
-Using Microsoft Acess I created a data base and stabished relationships between queries 
+Using Microsoft Access I created a data base and stabished relationships between queries 
 
 ![image](https://user-images.githubusercontent.com/102097554/178468082-65f5a24c-83b8-45f0-8a04-cb999f6cdd22.png)
 
