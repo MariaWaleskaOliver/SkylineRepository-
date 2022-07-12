@@ -1,4 +1,4 @@
-##  Maria De Oliveira Repository 
+##  Welcome to my Repository 
 
 I am a Computer Programming student in my second year at Conestoga College. I learned that you have a position open for a Marketing Assistant Student, and I would like to show some of my work in class with hopes of being considered as a candidate.    
 
@@ -13,7 +13,7 @@ I made a static website for a flower shop as an exercise in College. Where the u
 
 ### Tax Calculator and Form using Java Script 
 
-I made a dynamic website that collects data from the user and makes some calculations. [Tax Calculator]( https://mariawaleskaoliver.github.io/java3/) I also created a form to collect the user's data and integrated some Regex and server-side validations. Please check it out! [Form Canada Tools]( https://mariawaleskaoliver.github.io/java2/)
+I made a dynamic website that collects data from the user and makes some calculations. [Tax Calculator](https://mariawaleskaoliver.github.io/taxCalculator/) I also created a form to collect the user's data and integrated some Regex and server-side validations. Please check it out! [Form Canada Tools]( https://mariawaleskaoliver.github.io/java2/)
 
 ### UX Projects 
 In my first semester, I developed a Mystery game prototype using the JustInMind app. 
