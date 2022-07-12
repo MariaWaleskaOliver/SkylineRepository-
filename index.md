@@ -40,9 +40,12 @@ I added some Validation Rules
 
 I also added some Imput Masks
  
-![image](https://user-images.githubusercontent.com/102097554/178463775-2abe9866-f329-42f7-aabe-7adaaba245f4.png)
+![image](https://user-images.githubusercontent.com/102097554/178466670-9daa00fc-4359-4748-989e-d73769ac78a1.png)
 
-![image](https://user-images.githubusercontent.com/102097554/178463803-7bb0fbda-63b2-432d-b0d2-ed1b278f84fb.png)
+![image](https://user-images.githubusercontent.com/102097554/178466698-fcb245c5-9b91-4840-a2cf-693777597850.png)
+
+![image](https://user-images.githubusercontent.com/102097554/178466738-3784912d-715a-4b95-9286-1aa548a6742b.png)
+
 
 
 ### Contact
