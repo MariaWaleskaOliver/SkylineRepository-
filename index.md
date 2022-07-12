@@ -25,6 +25,25 @@ The image below was one of the prototypes I made with my group for a website whe
 .
 ![APRESENTATION PROT](https://user-images.githubusercontent.com/102097554/178342445-9b97b00b-3df5-49e9-b9cc-64af00443969.png)
 
+### Data Modeling 
+Using Microsoft Acess I created a data base and stabished relationships between queries 
+
+![image](https://user-images.githubusercontent.com/102097554/178462732-76876bc9-0cf1-4698-a7f2-22f0c3769adc.png)
+
+I added some Validation Rules 
+
+![image](https://user-images.githubusercontent.com/102097554/178463337-b53c427d-4e6e-4373-a89a-9a01ca9ad3b7.png)
+
+![image](https://user-images.githubusercontent.com/102097554/178463402-79b18e9a-c6ef-46c5-827d-3235c7e4ed9a.png)
+
+![image](https://user-images.githubusercontent.com/102097554/178463454-207f47c7-3c8a-43a5-9b4b-5d4fe6587e36.png)
+
+I also added some Imput Masks
+ 
+![image](https://user-images.githubusercontent.com/102097554/178463775-2abe9866-f329-42f7-aabe-7adaaba245f4.png)
+
+![image](https://user-images.githubusercontent.com/102097554/178463803-7bb0fbda-63b2-432d-b0d2-ed1b278f84fb.png)
+
 
 ### Contact
 If you require any further information, please feel free to contact me at mwalleska135246@.gmail.com.
