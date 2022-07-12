@@ -28,7 +28,7 @@ The image below was one of the prototypes I made with my group for a website whe
 ### Data Modeling 
 Using Microsoft Acess I created a data base and stabished relationships between queries 
 
-![image](https://user-images.githubusercontent.com/102097554/178467610-7574b1fd-a83e-4795-b78a-792c61bf2f14.png)
+![image](https://user-images.githubusercontent.com/102097554/178468082-65f5a24c-83b8-45f0-8a04-cb999f6cdd22.png)
 
 I also added some Validation Rules and Imput Mask
 
