@@ -21,7 +21,7 @@ In my first semester, I developed a Mystery game prototype using the JustInMind 
 ![net1](https://user-images.githubusercontent.com/102097554/178344449-5d542aea-ef1a-43f6-99cb-7f790a6deb50.png)
 
 
-The image below was one of the prototypes I made with my group for a website where the user could search about colleges and get to know more details about them.   
+The images below was one of the prototypes I made with my group for a website where the user could search about colleges and get to know more details about them.   
 .
 ![image](https://user-images.githubusercontent.com/102097554/178468946-a897dc8f-e09c-4ef8-88f1-b1226433f071.png)
 
